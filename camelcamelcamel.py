@@ -48,3 +48,5 @@ def main(price, drop):
 
 if __name__ == "__main__":
     main()
+
+# AUTOBIN: camelcamelcamel
